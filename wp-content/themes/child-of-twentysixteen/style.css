@@ -8,16 +8,22 @@ Version: 1.0
 */
 
 @import url(../twentysixteen/style.css);
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+/* font-family: 'Open Sans', sans-serif; */
 
 .site-branding .site-title a {
     color: #3f77bc;
+    font-family: 'Open Sans', sans-serif;
 }
+
 .site-branding .site-title a:hover, .site-branding .site-title a:focus {
     color: #ec83a1;
 }
+
 .site-description {
     font-size: 1rem;
 }
+
 .site {
     background-color: #e0ebf8;
 }
