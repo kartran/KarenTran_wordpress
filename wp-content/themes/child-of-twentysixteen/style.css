@@ -32,3 +32,8 @@ Version: 1.0
 	color: #a381ff;
 }
 
+@media screen and (min-width: 56.875em) {
+	.widget .widget-title {
+	    font-size: 1.2rem;
+	}
+}
